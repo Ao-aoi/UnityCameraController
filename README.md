@@ -20,7 +20,7 @@ CamCtrlは、画面端の指定エリアにマウスカーソルを置くと、�
 エッジエリアの表示/非表示を切り替えられます。
 加速度・最大速度・減衰率なども好みに合わせて調整できます。
 
-English
+
 ## Overview:
 CamCtrl is a Unity MonoBehaviour that enables intuitive camera movement and rotation by simply hovering the mouse cursor over designated edge areas of the screen. The camera smoothly accelerates and decelerates in the direction of the hovered area, providing a user-friendly control experience.
 
