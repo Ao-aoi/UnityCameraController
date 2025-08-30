@@ -1,6 +1,7 @@
 # UnityCameraController - CamCtrl Usage Guide
 
-日本語
+## Demo
+![CamCtrl Demo](demo.gif)
 
 ## 概要:
 CamCtrlは、画面端の指定エリアにマウスカーソルを置くと、カメラが加速・減速しながら移動・回転する直感的な操作を実現するUnity用MonoBehaviourです。
